@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning full stack!
 - 📫 You can reach me by email: jolanyu@qq.com.
